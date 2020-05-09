@@ -5,8 +5,8 @@
  * Plugin URI: https://github.com/doomfederation/recording-post-type
  * Description: Provides a recording post type for https://doomfederation.com 
  * Version: 1.0.0
- * Author: Swarthmore College
- * Author URI: https://swarthmore.edu
+ * Author: devnoot <devnoot@gmail.com>
+ * Author URI: https://github.com/devnoot
  * License: MIT
 **/
 
